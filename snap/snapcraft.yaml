@@ -6,8 +6,8 @@ description: |
   jbang let you build and run java applications without java pre-installed
   and using any dependency for your scripts/apps.
 
-grade: stable # must be 'stable' to release into candidate/stable channels
-confinement: strict # use 'strict' once you have the right plugs and slots
+grade: stable
+confinement: classic
 
 apps:
   jbang:
