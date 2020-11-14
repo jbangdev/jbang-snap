@@ -1,0 +1,7 @@
+# snap repo for jbang
+
+Snap repository for JBang.
+
+On pushes to master https://snapcraft.io/jbang/builds will
+run and push the builds to development.
+
