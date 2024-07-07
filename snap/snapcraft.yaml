@@ -1,5 +1,5 @@
 name: jbang
-version: 0.117.0
+version: 0.117.1
 summary: Unleash the power of Java
 description: |
   Unleash the power of Java.
@@ -18,7 +18,7 @@ apps:
 parts:
   jbang:
     plugin: dump
-    source: https://github.com/jbangdev/jbang/releases/download/v0.117.0/jbang-0.117.0.tar
-    source-checksum: sha256/087ffb82de8c6736b4516bc7553a1db77f8bd1549bc77daf55751eeac1c4ceb6
+    source: https://github.com/jbangdev/jbang/releases/download/v0.117.1/jbang-0.117.1.tar
+    source-checksum: sha256/c2a8e2d4879e32e63e545892a7e06be4ca6e90be38d1d690086847d7c684d579
     stage-packages:
       - curl
