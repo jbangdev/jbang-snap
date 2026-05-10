@@ -8,7 +8,7 @@ description: |
 
 grade: stable
 confinement: classic
-base: core18
+base: core24
 type: app
 
 apps:
